@@ -135,10 +135,11 @@ Ciao,
 > 
 > By receiving this email you have been identified as a contributor to the
 > QGIS code base and therefore a member of the "QGIS Development Team" as
-> referenced in the license change below. Your concurrence is required to
+> referenced in the license change below.
+> Your concurrence is required to
 > make this change to the license. Please review the statement below and
-> reply to this message indicating you agree with the change. Please
-> include the text of this message in your reply.
+> reply to this message indicating you agree with the change. 
+> Please include the text of this message in your reply.
 > 
 > I would like to have this change implemented prior to the 0.4 release so
 > your prompt reply is appreciated.
